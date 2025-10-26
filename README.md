@@ -1,3 +1,3 @@
 # Sujal-Demo
 First Git Repository
-Author - Sujal Dongare
+Author - Sujal Satyawan Dongare 
